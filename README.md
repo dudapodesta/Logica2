@@ -1,4 +1,4 @@
-PDF atualiazado em 07/05/24<br>
+PDF atualiazado em 06/11/24<br>
 ATENÇÃO: PDF dividido com disciplina do primeiro ano, então (atualmente) a matéria do segundo ano começa na seção 4.<br><br>
 Arquivos C:<br>
 hello.c -> Imprime "Hello World" na tela<br>
